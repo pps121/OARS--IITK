@@ -1,0 +1,9 @@
+name = CustomTheme
+description = This is based on Stark.
+package = Core
+version = VERSION
+core = 7.x
+stylesheets[all][] = layout.css
+stylesheets[all][] = local.css
+;
+
