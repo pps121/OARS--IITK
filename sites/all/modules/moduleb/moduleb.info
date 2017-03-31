@@ -1,0 +1,8 @@
+; File: sites/all/modules/modulea/modulea.info (don't include this line)
+name = Module B
+description = Second Example Module
+package = Alanstormdotcom
+version = VERSION
+core = 7.x
+
+files[] = moduleb.module

@@ -1,0 +1,5 @@
+<?php
+function moduleb_helloworld()
+{
+    return "<p>>>> called Hook From Module B <<<</p>";
+}

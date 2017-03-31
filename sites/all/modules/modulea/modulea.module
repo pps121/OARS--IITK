@@ -1,0 +1,6 @@
+<?php
+function modulea_helloworld()
+{
+
+    return '<p>>>> Call from module a<<<<</p>';
+}
